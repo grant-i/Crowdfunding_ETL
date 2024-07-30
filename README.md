@@ -73,15 +73,23 @@ contact_info_df_copy['email'] = contact_info_df_copy['contact_info'].str.extract
 ## Final Tables in pgAdmin
 ### Contacts
 <img width="754" alt="Screenshot 2024-07-29 at 7 52 13 PM" src="https://github.com/user-attachments/assets/a7cdf8e3-aec4-40d0-87be-c99f05138a8c">
+<img width="155" alt="Screenshot 2024-07-29 at 8 49 02 PM" src="https://github.com/user-attachments/assets/4f1abb06-2211-40cf-80cd-b6f6941e230a">
+<img width="379" alt="Screenshot 2024-07-29 at 8 49 45 PM" src="https://github.com/user-attachments/assets/c8e4ddb1-aeb5-4c50-b736-31da99e93b9d">
 
 ### Categories
 <img width="447" alt="Screenshot 2024-07-29 at 7 52 23 PM" src="https://github.com/user-attachments/assets/f29cf30f-a37a-471c-bffe-e82804da6b1e">
+<img width="150" alt="Screenshot 2024-07-29 at 8 48 46 PM" src="https://github.com/user-attachments/assets/a0fe8f32-f55c-4619-abf5-a7ad892ddc7e">
+<img width="397" alt="Screenshot 2024-07-29 at 8 50 26 PM" src="https://github.com/user-attachments/assets/fa8d0aaa-b7a1-4ba5-9543-566abe49a713">
 
 ### Sub Categories
 <img width="468" alt="Screenshot 2024-07-29 at 7 52 33 PM" src="https://github.com/user-attachments/assets/8d154933-b8f9-44f6-902a-9ccec7587309">
+<img width="136" alt="Screenshot 2024-07-29 at 8 49 16 PM" src="https://github.com/user-attachments/assets/54cbad11-8b11-471a-bb1b-32d77191d988">
+<img width="402" alt="Screenshot 2024-07-29 at 8 50 06 PM" src="https://github.com/user-attachments/assets/18443125-e502-4165-982e-863311316490">
 
 ### Campaigns
 <img width="1111" alt="Screenshot 2024-07-29 at 7 52 01 PM" src="https://github.com/user-attachments/assets/f59ef95c-6669-4a51-9f2b-4863d7578b7b">
+<img width="149" alt="Screenshot 2024-07-29 at 8 48 01 PM" src="https://github.com/user-attachments/assets/62d9e512-985d-4ff4-b845-c43251568eb3">
+<img width="379" alt="Screenshot 2024-07-29 at 8 50 43 PM" src="https://github.com/user-attachments/assets/28827a5d-ba4e-4c4a-9100-894f808b1aac">
 
 ### ERD
 <img width="738" alt="Screenshot 2024-07-27 at 9 39 05 PM" src="https://github.com/user-attachments/assets/2b34b8f8-f27a-45c6-95d0-5b997286ceb8">
